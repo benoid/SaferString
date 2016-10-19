@@ -3,7 +3,7 @@
    
    Public implementation of sfr_string_t type.
 
-   Will document code asap.
+   Will document code soon.
 */
 #ifndef SFR_STRING_C
 #define SFR_STRING_C
