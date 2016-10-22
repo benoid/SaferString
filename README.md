@@ -1,4 +1,4 @@
-# SaferString
+# safer-string
 A string library which implements the ```sfr_string_t``` type, a safer string than built in C-strings.  ```sfr_string_t```  provides automatic null termination, bounds checking, and buffer resizing to avoid C-string based errors.  
 
 The library also has a few utility functions for ```sfr_string_t``` manipulation.
